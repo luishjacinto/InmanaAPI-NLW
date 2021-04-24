@@ -1,6 +1,4 @@
 # Inmana
-
-# InmanaAPI-NLW
 API desenvolvida durante a semana da NLW proporcionada pela Rocketseat. Ela visa controlar prazo de validade para itens(comida em geral).
 
 To start your Phoenix server:
@@ -20,4 +18,3 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
->>>>>>> master
